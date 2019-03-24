@@ -1,0 +1,11 @@
+C:\Users\I\Documents\DenisProjects\BiocadOptimizer\BiocadOptimizer\bin\Debug\netcoreapp2.1\BiocadOptimizer.deps.json
+C:\Users\I\Documents\DenisProjects\BiocadOptimizer\BiocadOptimizer\bin\Debug\netcoreapp2.1\BiocadOptimizer.runtimeconfig.json
+C:\Users\I\Documents\DenisProjects\BiocadOptimizer\BiocadOptimizer\bin\Debug\netcoreapp2.1\BiocadOptimizer.runtimeconfig.dev.json
+C:\Users\I\Documents\DenisProjects\BiocadOptimizer\BiocadOptimizer\bin\Debug\netcoreapp2.1\BiocadOptimizer.dll
+C:\Users\I\Documents\DenisProjects\BiocadOptimizer\BiocadOptimizer\obj\Debug\netcoreapp2.1\BiocadOptimizer.csprojAssemblyReference.cache
+C:\Users\I\Documents\DenisProjects\BiocadOptimizer\BiocadOptimizer\obj\Debug\netcoreapp2.1\BiocadOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\I\Documents\DenisProjects\BiocadOptimizer\BiocadOptimizer\obj\Debug\netcoreapp2.1\BiocadOptimizer.AssemblyInfoInputs.cache
+C:\Users\I\Documents\DenisProjects\BiocadOptimizer\BiocadOptimizer\obj\Debug\netcoreapp2.1\BiocadOptimizer.AssemblyInfo.cs
+C:\Users\I\Documents\DenisProjects\BiocadOptimizer\BiocadOptimizer\bin\Debug\netcoreapp2.1\BiocadOptimizer.pdb
+C:\Users\I\Documents\DenisProjects\BiocadOptimizer\BiocadOptimizer\obj\Debug\netcoreapp2.1\BiocadOptimizer.dll
+C:\Users\I\Documents\DenisProjects\BiocadOptimizer\BiocadOptimizer\obj\Debug\netcoreapp2.1\BiocadOptimizer.pdb
